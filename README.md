@@ -1,2 +1,4 @@
 # NETFLIX MOVIE AND TV SHOW DATA ANALYSIS BY USING SQL
 ![netflix logo](https://github.com/Mano630/NETFLIX_SQL_PROJECT-/blob/main/NETFLIX%20LOGO.jpg)
+
+##objective
